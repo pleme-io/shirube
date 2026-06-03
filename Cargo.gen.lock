@@ -877,8 +877,8 @@
     }
   },
   "git_nar_sha256": {
-    "kigi-0.1.0": "sha256-1J+RkpZGjaMyJP1QOilGjMFDPMRozI4faI4RejLimlY=",
-    "tane-0.1.0": "sha256-Va5xgILTX9CDnfIqLGKPpgeoTHGiPjmwpoz3TQUvhrw="
+    "kigi-0.1.0": "sha256-srZ5mkEGFebsHB/l+k60ZjcplVwqZisKSZVLvrAqwXU=",
+    "tane-0.1.0": "sha256-ubMjCis9b2Jwdlv093hxJ1n4C38WovAQ2qbxearynQg="
   },
   "flake_metadata": {}
 }
